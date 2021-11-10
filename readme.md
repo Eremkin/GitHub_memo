@@ -5,7 +5,7 @@ LICENSE: [MIT](./license.md)
 Содержание: 
 
 1. [Краткий синтаксис Markdown](./Markdown-sintax.md)
-
+2. [Основные команды GIT](./command-git.md)
 
 
 ---
