@@ -6,6 +6,12 @@ LICENSE: [MIT](./license.md)
 
 1. [Краткий синтаксис Markdown](./Markdown-sintax.md)
 2. [Основные команды GIT](./command-git.md)
+3. [Команды ветвления и слияния Git](./command-ramification-git.md)
+4. [Команды для совместной работы и обновлению проектов в Git](.//command-update-git.md)
+5. [Команды для отладки и сравнения в Git](./command-debug-comparison-git.md)
+6. [Дополнительные материалы по Git](./more-info-git.md)
+7. [Выкладываем изменения c локалки на ГитХаб (Шпаргалка)](./manual-file-upload.md)
+
 
 
 ---
