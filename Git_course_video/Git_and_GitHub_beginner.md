@@ -1,4 +1,4 @@
- [< к содержанию раздела](.Git_course_video/readme.md)
+ [< к содержанию раздела](git_course_video/readme.md)
  # Git и GitHub Курс Для Новичков 
 
  

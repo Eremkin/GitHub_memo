@@ -11,6 +11,8 @@ LICENSE: [MIT](./license.md)
 5. [Команды для отладки и сравнения в Git](./command-debug-comparison-git.md)
 6. [Дополнительные материалы по Git](./more-info-git.md)
 7. [Выкладываем изменения c локалки на ГитХаб (Шпаргалка)](./manual-file-upload.md)
+8. Видео по GIT
+    8.1. 
 
 
 
